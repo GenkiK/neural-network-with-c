@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "terminal.integrated.copyOnSelection": true,
+    "editor.formatOnType": true,
+    "editor.renderControlCharacters": true,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "boundary",
+    "cSpell.words": ["maxv", "softmaxwithloss"],
+    "files.associations": {
+        "nn.h": "c"
+    }
+}
